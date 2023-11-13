@@ -2571,6 +2571,10 @@ input, select, textarea {
 			line-height: 1.5em;
 			margin: 0;
 		}
+		.work-item h3:hover {
+			color: #49bf9d; /* Replace with your desired hover color */
+		}
+		
 
 /* Header */
 
